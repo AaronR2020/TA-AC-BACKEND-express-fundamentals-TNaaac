@@ -25,8 +25,10 @@ Q. Modify above application, add appropriate middleware
 
 - to capture form data from request
 - to capture json data from request
+
 - add POST request on `/form` route to capture form data from postman and send entire form data through response in json format
 - add POST request on `/json` route to capture JSON data from postman and send entire data in response in plain text format.
+
 - json and form data should include fields
   - name
   - age
