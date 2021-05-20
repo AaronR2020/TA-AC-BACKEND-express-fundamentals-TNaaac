@@ -2,17 +2,26 @@ writeCode
 
 Q. Create a scaffold express application from the scratch with necessary middlewares and routes
 
-- add package.json
-- install express and create an express server listening on port 4000
-- add middlewares for capturing form/json data
+- add package.json[done]
+- install express and create an express server listening on port 4000[done]
+
+- add middlewares for capturing form/json data[done]
+
 - add middleware for handling static assets
+
 - add third party mddleware for logging and handling cookies
+
 - add 2 sample routes with some random response of your choice
 
   1. GET -> `/` route
   2. GET -> `/users` route
 
 - add middleware for handling errors
+
+
+
+
+
 
 Q. Using the above structure, convert a multipage HTML/CSS project into a node application.
 
@@ -24,6 +33,7 @@ Q. Using the above structure, convert a multipage HTML/CSS project into a node a
   - images in images/media directory
   - css in stylesheets directory
 
+
   Directory Structure should be
 
   - package.json
@@ -31,3 +41,4 @@ Q. Using the above structure, convert a multipage HTML/CSS project into a node a
   - public // static asset path for images/css
   - index.html
   - projects.html and so on ..
+
